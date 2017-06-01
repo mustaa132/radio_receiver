@@ -1,0 +1,37 @@
+Source,C:/Users/mustafa/Desktop/testproject/Radio_receiver_final_project_YILDIZ_Mustafa/Radio_receiver_final_project_YILDIZ_Mustafa.sch
+Kicad Rev,Eeschema 4.0.5
+Generated Date,1.06.2017 17:42:35
+
+Title,Radio Receiver 
+Company,Ventspil University
+Revision,1
+Date Issue,2017-05-28
+Comment,Mustafa YILDIZ
+
+Reference,Value,Library,Library Ref
+VC1,20p,device,C_Variable
+VC2,5p,device,C_Variable
+L1,2.2nH,device,L
+R1,470k,device,R
+C2,100n,device,C
+C1,22P,device,C
+T1,BF199,transistors,BC547
+R2,10k,device,R
+L2,2.2nH,device,L
+C3,10n,device,C
+R3,1M,device,R
+R4,4.7k,device,R
+T2,BC547,transistors,BC547
+C4,33n,device,C
+R5,1M,device,R
+T3,BC547,transistors,BC547
+R6,4.7k,device,R
+C5,100n,device,C
+R7,56k,device,R
+T4,BC547,transistors,BC547
+C6,10n,device,C
+Headphones1,64ohm,device,Jumper
+C7,100uF,device,C_Small
+S1,switch on/off,device,Jumper_NO_Small
+BT1,1.5V,device,Battery_Cell
+VR1,POT 10k,device,POT

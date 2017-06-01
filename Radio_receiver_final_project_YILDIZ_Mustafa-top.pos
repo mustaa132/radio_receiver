@@ -1,0 +1,10 @@
+### Module positions - created on 06/01/17 17:40:55 ###
+### Printed by Pcbnew version kicad 4.0.5
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                           PosX       PosY       Rot  Side
+C1        22P       C_1210_HandSoldering           88.2853  -114.5642  180.0000  top
+C2        100n      C_1206                         98.5506  -116.7943    0.0000  top
+L1        2.2nH     Neosid_Inductor_SM-PIC0602H    90.2818  -107.8814  270.0000  top
+L2        2.2nH     Neosid_Inductor_SM-PIC0602H   107.1880  -112.3950  180.0000  top
+## End
